@@ -83,7 +83,7 @@ export const MapEditor: React.FC<MapEditorProps> = ({ grid, agentPos, onCellClic
       </div>
       {!readOnly && (
         <p className="mt-3 text-xs text-slate-500">
-          Clic en las celdas para rotar: Vacío -> Muro -> Trampa -> Meta -> Inicio
+          Clic en las celdas para rotar: Vacío → Muro → Trampa → Meta → Inicio
         </p>
       )}
     </div>
