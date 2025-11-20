@@ -1,0 +1,5 @@
+{
+  "name": "Q-Learning Practice Lab",
+  "description": "Una herramienta interactiva para practicar y visualizar el algoritmo de Q-Learning. Configura mapas, define recompensas y completa manualmente la tabla Q para verificar tu aprendizaje.",
+  "requestFramePermissions": []
+}
